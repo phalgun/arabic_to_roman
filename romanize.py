@@ -37,7 +37,7 @@ import sys
         C   V
 
     We see a pattern for every set of 5 numbers. Each number has a lower bound, repetition character and upper bound
-    and every number follows the patter.
+    and every number follows the pattern.
 
 '''
 def pattern_print(n, lower, r, upper): # r is the repetition character
